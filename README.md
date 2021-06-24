@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph//file/6868565f8edc3e2221963.jpg">
+  <img src="https://telegra.ph//file/bf41bd5312b36717b4443.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
