@@ -1,3 +1,3 @@
-from DaisyXMusic.function.admins import admins, get, set
+from SatyaMusic.function.admins import admins, get, set
 
 __all__ = ["set", "get", "admins"]
